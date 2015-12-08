@@ -10,8 +10,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            Algorithms.Implementation.UtopianTree uto = new Algorithms.Implementation.UtopianTree();
-            uto.Main();
+            Algorithms.Strings.Pangrams pan = new Algorithms.Strings.Pangrams();
+            pan.Main();
         }
     }
 }
